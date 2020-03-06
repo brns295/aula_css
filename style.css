@@ -1,0 +1,19 @@
+body{
+    background: yellowgreen;
+}
+
+p{
+    color: #000;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.um{
+    color: gold;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.centro{
+    text-align: center;
+}
